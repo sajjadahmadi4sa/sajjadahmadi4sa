@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Sajjad 👋
 
-<!--
-**sajjadahmadi4sa/sajjadahmadi4sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python & Django Developer
 
-Here are some ideas to get you started:
+I'm a Python and Django developer focused on building practical and maintainable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional web applications and continuously improving my backend development skills.
+
+## 🛠️ Technologies & Tools
+
+- Python
+- Django
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- SQLite
+- Git & GitHub
+
+## 🚀 Featured Project
+
+### Django Travel Blog
+
+A full-featured travel blog built with Django, including:
+
+- User authentication
+- Blog posts
+- Categories & tags
+- Search functionality
+- Comments
+- CAPTCHA protection
+- Sitemap & robots.txt
+- Django Admin
+- Responsive UI
+
+🔗 [View Project](https://github.com/sajjadahmadi4sa/django-travel-blog)
+
+## 📚 Currently Learning
+
+- Advanced Django
+- Backend development
+- REST APIs
+- Database design
+- Deployment & production practices
+
+## 📫 Contact
+
+- GitHub: [@sajjadahmadi4sa](https://github.com/sajjadahmadi4sa)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
