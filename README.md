@@ -1,20 +1,20 @@
 # Hi, I'm Sajjad 👋
 
-### Python & Django Developer
+### Python & Django Backend Developer
 
-I'm a Python and Django developer focused on building practical and maintainable web applications.
+I'm a Python and Django developer focused on building practical, scalable, and maintainable web applications.
 
-I enjoy turning ideas into functional web applications and continuously improving my backend development skills.
+I enjoy building backend systems, designing REST APIs, and continuously improving my development skills.
 
 ## 🛠️ Technologies & Tools
 
 - Python
 - Django
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+- Django REST Framework (DRF)
+- REST API
+- MySQL
 - SQLite
+- Docker (Basic)
 - Git & GitHub
 
 ## 🚀 Featured Project
@@ -38,10 +38,11 @@ A full-featured travel blog built with Django, including:
 ## 📚 Currently Learning
 
 - Advanced Django
-- Backend development
-- REST APIs
-- Database design
-- Deployment & production practices
+- Django REST Framework
+- REST API Development
+- Database Design
+- Docker
+- Deployment & Production Practices
 
 ## 📫 Contact
 
